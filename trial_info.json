@@ -2,5 +2,9 @@
   {
     "HesapId": "exampleId",
     "HesapParola": "examplePassword"
+  },
+  {
+    "HesapId": "exampleId2",
+    "HesapParola": "examplePassword2"
   }
 ]
