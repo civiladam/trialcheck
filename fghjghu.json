@@ -2,7 +2,7 @@
   {
     "HesapId": "civiladam",
     "HesapParola": "B42E993137A3",
-    "TelegramChatID": ""
+    "TelegramChatID": "931327350"
   },
   {
     "HesapId": "airemez",
@@ -11,7 +11,8 @@
   }, 
   {
     "HesapId": "Posion",
-    "HesapParola": "02000A00303A"
+    "HesapParola": "02000A00303A",
+    "TelegramChatID": ""
   }
   
 ]
