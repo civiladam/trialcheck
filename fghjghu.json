@@ -1,11 +1,13 @@
 [
   {
     "HesapId": "civiladam",
-    "HesapParola": "B42E993137A3"
+    "HesapParola": "B42E993137A3",
+    "TelegramChatID": "931327350"
   },
   {
     "HesapId": "airemez",
-    "HesapParola": "B42E9999B0F2"
+    "HesapParola": "B42E9999B0F2",
+    "TelegramChatID": "7324786882"
   }, 
   {
     "HesapId": "Posion",
