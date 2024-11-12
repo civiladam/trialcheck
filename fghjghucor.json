@@ -5,6 +5,7 @@
   {"HesapId": "mustafa",      "HesapParola": "7C0507075740",    "TelegramChatID": "5546510151"},
   {"HesapId": "airemez",      "HesapParola": "B42E9999B0F2",    "TelegramChatID": "7324786882"}, 
   {"HesapId": "Posion",       "HesapParola": "02000A005076",    "TelegramChatID": "575579390"},
-  {"HesapId": "dodo",       "HesapParola": "AC1203ACC83F",    "TelegramChatID": "7462316186"}
+  {"HesapId": "dodo",       "HesapParola": "AC1203ACC83F",    "TelegramChatID": "7462316186"},
+  {"HesapId": "PosionTest",       "HesapParola": "B42E993137A3",    "TelegramChatID": "575579390"},
   
 ]
