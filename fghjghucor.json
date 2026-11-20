@@ -1,15 +1,5 @@
 [
-  {"HesapId": "civiladam",    "HesapParola": "B42E993137A3",    "TelegramChatID": "931327350"},
-  {"HesapId": "Serti",        "HesapParola": "",    "TelegramChatID": "1524226148"},
-  {"HesapId": "serdaryalciin","HesapParola": "00FFDD06F647",    "TelegramChatID": "5816225110"},
-  {"HesapId": "mustafa",      "HesapParola": "2892006A37AA",    "TelegramChatID": "5546510151"},
-  {"HesapId": "airemez",      "HesapParola": "B42E9999B0F2",    "TelegramChatID": "7324786882"}, 
-  {"HesapId": "airemez2",      "HesapParola": "00090FAA0001",    "TelegramChatID": "7324786882"}, 
-  {"HesapId": "airemez3",      "HesapParola": "A0AD9F852942",    "TelegramChatID": "7324786882"}, 
-  {"HesapId": "Posion",       "HesapParola": "xxx00163EBC32E6",    "TelegramChatID": "xxx575579390"},
-  {"HesapId": "dodo",       "HesapParola": "AC1203ACC83F",    "TelegramChatID": "7462316186"},
-  {"HesapId": "FELEK16",       "HesapParola": "DC0EA1F09716",    "TelegramChatID": "6596390147"},
- {"HesapId": "civiladam2",       "HesapParola": "C2353244F375",    "TelegramChatID": "931327350"},
-  {"HesapId": "noxveil",       "HesapParola": "482AE32A3BAB",    "TelegramChatID": "9259362293"}
+  {"HesapId": "civiladam",    "HesapParola": "civiladam" },
+  {"HesapId": "noxveil",       "HesapParola": "482AE32A3BAB"}
   
 ]
